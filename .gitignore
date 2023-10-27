@@ -1,1 +1,4 @@
 .vercel
+
+db.sqlite3
+__pychache__
